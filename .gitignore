@@ -1,3 +1,2 @@
 mongo-creds_k8s-secret.yaml
-
 *.crt
