@@ -17,7 +17,7 @@ spec:
         app: solar-system
     spec:
       containers:
-      - image: amirul1994/solar-system:6144076846251018cbd41ea2e1f83487f32369b7
+      - image: amirul1994/solar-system:53205748478c5bcc146bfbc4558af2498377646e
         imagePullPolicy: Always
         name: solar-system
         ports:
